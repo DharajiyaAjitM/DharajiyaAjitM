@@ -1,7 +1,7 @@
-- 👋 HI, I’M DHARAJIYA AJIT M.
-- 👀 I’M INTERESTED IN ARMY
-- 🌱I’M CURRENTLY LEARNING IN COMPUTER 
--💞I'M MAHADEV bhakt💞
+- 👋 HI, I’M DHARAJIYA AJIT M.👋 
+- 💞 I’M INTERESTED IN ARMY 💞
+- 🌱 I’M CURRENTLY LEARNING IN COMPUTER 🌱 
+- 👀 I'M MAHADEV BHAKT 👀
 
 <!---
 DharajiyaAjitM/DharajiyaAjitM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
